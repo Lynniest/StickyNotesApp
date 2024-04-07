@@ -1,2 +1,2 @@
 # StickyNotesApp
-Just A Good Old Java App
+Just A Good Old Java Desktop app for sticky notes
